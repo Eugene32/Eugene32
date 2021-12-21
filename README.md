@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eugene32
+- 👋 Hi, I’m Reynan Kanindot
 - 👀 I’m interested in web development and is currently taking a course for it.
 - 🌱 I’m currently learning web coding.
 - 💞️ I’m looking to collaborate on anything that will help me gain the necessary skills/knowledge to be a full-stack web developer.
