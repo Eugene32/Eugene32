@@ -8,8 +8,8 @@
        
  💞️ Hobbies:
 * Playing guitar:
-- * Acoustic
-- * Bass
+  * Acoustic
+  * Bass
 * Singing and playing at a church service.
        
  📫 Contacts:
