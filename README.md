@@ -13,8 +13,8 @@
   * Singing and playing at a church service.
        
  📫 Contacts:
-     -* email:  ekahiyang@gmail.com
-     -* LinkedIn:  https://www.linkedin.com/in/reynan-k-2a525032/
+-     * email:  ekahiyang@gmail.com
+-     * LinkedIn:  https://www.linkedin.com/in/reynan-k-2a525032/
 
 <!---
 Eugene32/Eugene32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
