@@ -1,4 +1,4 @@
- 👋 Hi, I’m Reynan Kanindot
+ 👋 Hi, I’m Reynan Kanindot 
  
  👀 Looking for a part-time job in web development.
  
@@ -16,6 +16,8 @@
  📫 Contacts:
  - email:  ekahiyang@gmail.com
  - LinkedIn:  https://www.linkedin.com/in/reynan-k-2a525032/
+
+[Portfolio](https://eugene32.github.io/My-Portfolio/)
 
 <!---
 Eugene32/Eugene32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
