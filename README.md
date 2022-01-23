@@ -1,6 +1,6 @@
  👋 Hi, I’m Reynan Kanindot
  
- 👀 I’m interested in web development and is currently taking a course for it.
+ 👀 Looking for a part-time job in web development.
  
 🌱 Currently:
 * Working as a quality control manager in a manufacturing company.
