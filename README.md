@@ -14,7 +14,7 @@
        
        
  📫 Contacts:
- - email:  ekahiyang@gmail.com
+ - email:  [ekahiyang@gmail.com](mailto:ekahiyang@gmail.com)
  - LinkedIn:  https://www.linkedin.com/in/reynan-k-2a525032/
 
 [Portfolio](https://eugene32.github.io/My-Portfolio/)
