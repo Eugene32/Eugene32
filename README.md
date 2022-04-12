@@ -1,6 +1,6 @@
  👋 Hi, I’m [Reynan Kanindot](https://eugene32.github.io/My-Portfolio/)
  
- 👀 Looking for a part-time job in web development.
+ A junior web developer pursuing his interest and passion.
  
 🌱 Currently:
 * Working as a quality control manager in a manufacturing company.
@@ -10,7 +10,6 @@
   * Playing guitar:
     * Acoustic
     * Bass
-  * Singing and playing at a church service.
        
        
  📫 Contacts:
